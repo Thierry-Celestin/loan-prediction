@@ -1,0 +1,1001 @@
+dependents,education,employment,annual_income,loan_amount,loan_term,cibil_score,loan_status
+2, Graduate, No,6400000,16900000,16,472, Rejected
+1, Graduate, Yes,5500000,12100000,4,350, Rejected
+1, Not Graduate, Yes,6800000,13700000,10,879, Approved
+4, Not Graduate, No,6700000,13400000,10,436, Rejected
+1, Graduate, Yes,5300000,11500000,14,848, Approved
+2, Graduate, No,6600000,23200000,16,555, Approved
+2, Graduate, No,6600000,13100000,20,885, Approved
+0, Not Graduate, No,7600000,25200000,6,888, Approved
+4, Not Graduate, Yes,2500000,6100000,20,478, Rejected
+4, Not Graduate, No,1100000,2500000,4,603, Approved
+1, Not Graduate, No,2300000,8200000,8,784, Approved
+1, Graduate, Yes,3300000,11700000,4,682, Approved
+4, Graduate, Yes,2600000,5900000,6,471, Rejected
+4, Not Graduate, Yes,9300000,36700000,20,808, Approved
+4, Not Graduate, No,5300000,18500000,8,470, Rejected
+2, Not Graduate, No,5400000,13800000,20,574, Approved
+4, Not Graduate, Yes,3500000,12000000,8,314, Rejected
+2, Graduate, No,4200000,10200000,14,407, Rejected
+0, Not Graduate, Yes,9200000,34900000,4,702, Approved
+2, Graduate, No,4300000,9800000,2,499, Rejected
+1, Graduate, Yes,7500000,19900000,10,669, Approved
+5, Not Graduate, Yes,5400000,18800000,20,326, Rejected
+3, Not Graduate, No,5500000,16200000,18,778, Approved
+2, Not Graduate, Yes,2100000,4500000,2,787, Approved
+0, Graduate, No,3700000,12300000,16,831, Approved
+0, Graduate, No,8800000,32900000,18,576, Approved
+5, Not Graduate, No,5800000,22800000,12,600, Approved
+4, Graduate, No,7900000,30600000,2,569, Approved
+1, Not Graduate, Yes,3100000,6300000,20,867, Approved
+0, Not Graduate, No,4100000,14500000,12,441, Rejected
+2, Not Graduate, Yes,9800000,32700000,2,304, Approved
+5, Not Graduate, No,3300000,8400000,18,520, Rejected
+0, Graduate, No,2000000,6200000,14,613, Approved
+2, Not Graduate, Yes,600000,1100000,8,885, Approved
+4, Not Graduate, Yes,3600000,9500000,2,841, Approved
+2, Not Graduate, No,7500000,29100000,20,815, Approved
+5, Graduate, Yes,200000,400000,18,822, Approved
+4, Not Graduate, No,9900000,29100000,18,772, Approved
+5, Graduate, Yes,6100000,22500000,6,776, Approved
+4, Not Graduate, Yes,3500000,10300000,10,337, Rejected
+0, Not Graduate, Yes,7800000,19000000,12,333, Rejected
+3, Not Graduate, Yes,8700000,29300000,4,312, Approved
+2, Graduate, Yes,5500000,12400000,14,842, Approved
+3, Graduate, Yes,1800000,5100000,8,790, Approved
+2, Graduate, No,8000000,31900000,16,806, Approved
+5, Not Graduate, Yes,7500000,17000000,8,300, Rejected
+5, Graduate, Yes,3700000,12000000,12,605, Approved
+2, Graduate, Yes,1600000,4700000,12,582, Approved
+5, Graduate, No,1300000,2700000,6,607, Approved
+5, Graduate, Yes,2400000,8200000,10,709, Approved
+4, Graduate, Yes,4100000,11600000,14,854, Approved
+2, Not Graduate, Yes,7300000,15200000,20,776, Approved
+1, Graduate, Yes,8000000,24600000,12,649, Approved
+3, Not Graduate, No,7900000,28000000,4,394, Approved
+4, Not Graduate, No,7200000,18900000,16,371, Rejected
+3, Not Graduate, No,6200000,13200000,14,707, Approved
+2, Not Graduate, Yes,5700000,18100000,20,491, Rejected
+0, Graduate, Yes,5800000,14100000,16,570, Approved
+1, Not Graduate, No,900000,3500000,18,395, Rejected
+0, Not Graduate, Yes,2200000,7500000,10,497, Rejected
+3, Not Graduate, Yes,1800000,5300000,14,440, Rejected
+0, Not Graduate, Yes,800000,2400000,16,825, Approved
+2, Graduate, Yes,7600000,18100000,14,320, Rejected
+2, Graduate, Yes,4100000,13500000,4,846, Approved
+3, Graduate, Yes,4600000,10900000,12,856, Approved
+3, Graduate, No,2300000,6800000,10,418, Rejected
+0, Not Graduate, Yes,8000000,21100000,6,306, Rejected
+2, Not Graduate, Yes,3800000,14500000,16,567, Approved
+2, Not Graduate, Yes,9500000,36800000,6,493, Rejected
+2, Graduate, No,9300000,21200000,2,509, Rejected
+4, Graduate, No,4700000,17000000,4,364, Approved
+5, Not Graduate, No,6000000,24000000,20,639, Approved
+2, Graduate, Yes,5500000,21700000,2,309, Approved
+0, Not Graduate, Yes,4600000,14800000,6,433, Rejected
+5, Not Graduate, No,9900000,33600000,20,580, Approved
+1, Graduate, Yes,6200000,16200000,4,888, Approved
+4, Not Graduate, Yes,400000,1100000,6,644, Approved
+1, Not Graduate, Yes,7800000,22200000,10,763, Approved
+0, Graduate, Yes,2900000,10800000,20,694, Approved
+3, Not Graduate, No,500000,1200000,6,757, Approved
+0, Not Graduate, No,2500000,6900000,12,471, Rejected
+5, Not Graduate, No,9000000,35200000,2,437, Approved
+4, Not Graduate, Yes,5200000,11400000,10,406, Rejected
+5, Not Graduate, No,6000000,19700000,20,376, Rejected
+1, Graduate, No,5100000,13800000,14,350, Rejected
+5, Not Graduate, Yes,8000000,22500000,20,784, Approved
+4, Graduate, Yes,9200000,25400000,14,765, Approved
+4, Not Graduate, No,9800000,32200000,18,593, Approved
+3, Graduate, Yes,7600000,30000000,10,344, Rejected
+1, Graduate, No,5100000,11800000,12,314, Rejected
+4, Graduate, Yes,1500000,3300000,16,382, Rejected
+2, Not Graduate, Yes,6200000,16500000,4,510, Rejected
+2, Graduate, Yes,6300000,24600000,8,464, Rejected
+1, Graduate, Yes,5500000,14900000,2,403, Rejected
+3, Not Graduate, No,8100000,30400000,12,606, Approved
+1, Graduate, No,6300000,22000000,20,646, Approved
+1, Graduate, No,1100000,3600000,20,495, Rejected
+3, Not Graduate, Yes,7200000,21600000,2,626, Approved
+1, Not Graduate, Yes,3000000,6000000,16,518, Rejected
+5, Graduate, No,2700000,7600000,8,746, Approved
+0, Not Graduate, No,5000000,16300000,12,737, Approved
+0, Not Graduate, No,8400000,22300000,14,371, Rejected
+1, Graduate, No,7700000,27300000,8,509, Rejected
+1, Graduate, No,4700000,14000000,2,411, Rejected
+2, Not Graduate, No,4300000,11800000,20,701, Approved
+5, Not Graduate, No,2500000,8800000,10,769, Approved
+5, Not Graduate, Yes,4400000,12500000,6,740, Approved
+5, Not Graduate, No,5700000,11600000,4,892, Approved
+2, Not Graduate, No,5300000,13100000,14,417, Rejected
+5, Graduate, No,4600000,14400000,6,785, Approved
+3, Not Graduate, No,400000,1100000,16,504, Rejected
+0, Not Graduate, No,2100000,5900000,14,402, Rejected
+2, Graduate, Yes,1200000,3500000,16,540, Rejected
+2, Graduate, Yes,8000000,28400000,10,607, Approved
+1, Graduate, Yes,5000000,19400000,10,410, Rejected
+0, Not Graduate, No,8500000,17200000,12,624, Approved
+4, Graduate, No,4600000,16600000,16,805, Approved
+2, Graduate, No,4600000,16100000,18,709, Approved
+2, Not Graduate, Yes,8500000,30900000,14,511, Rejected
+1, Graduate, Yes,7800000,25100000,18,766, Approved
+3, Not Graduate, Yes,1400000,3800000,16,451, Rejected
+1, Not Graduate, Yes,3700000,10200000,4,447, Rejected
+3, Not Graduate, Yes,1000000,2500000,18,763, Approved
+5, Not Graduate, No,900000,3100000,20,834, Approved
+2, Graduate, No,5600000,19500000,8,429, Rejected
+4, Not Graduate, No,3200000,10600000,16,693, Approved
+1, Graduate, No,2900000,11100000,20,478, Rejected
+2, Graduate, Yes,300000,800000,10,752, Approved
+0, Graduate, Yes,2400000,5900000,14,319, Rejected
+3, Graduate, No,5000000,17600000,8,303, Rejected
+3, Not Graduate, Yes,5000000,16700000,20,420, Rejected
+2, Not Graduate, Yes,200000,600000,8,552, Approved
+3, Not Graduate, Yes,6000000,16000000,12,606, Approved
+2, Not Graduate, No,5600000,13700000,2,558, Approved
+1, Not Graduate, No,4500000,12400000,6,504, Rejected
+5, Not Graduate, Yes,200000,300000,8,412, Rejected
+4, Not Graduate, Yes,6200000,18300000,4,900, Approved
+4, Not Graduate, Yes,9800000,23800000,8,634, Approved
+5, Graduate, Yes,3900000,9000000,8,340, Rejected
+3, Not Graduate, Yes,8300000,20900000,4,615, Approved
+2, Graduate, Yes,4900000,12200000,18,353, Rejected
+4, Graduate, Yes,6900000,16300000,8,606, Approved
+2, Not Graduate, No,4500000,14500000,18,498, Rejected
+4, Not Graduate, No,7500000,21900000,2,585, Approved
+1, Not Graduate, Yes,2300000,6400000,8,578, Approved
+1, Graduate, No,7400000,15500000,2,693, Approved
+4, Graduate, No,4800000,14300000,6,795, Approved
+1, Graduate, No,2600000,9900000,6,594, Approved
+3, Not Graduate, Yes,2700000,10600000,8,840, Approved
+3, Not Graduate, No,3700000,10900000,16,301, Rejected
+4, Graduate, Yes,2600000,9400000,18,481, Rejected
+5, Not Graduate, Yes,8800000,23100000,16,531, Rejected
+2, Not Graduate, No,7500000,15400000,8,332, Rejected
+0, Graduate, No,4700000,18500000,4,516, Approved
+2, Not Graduate, No,7100000,26600000,6,727, Approved
+3, Not Graduate, Yes,5500000,19300000,10,344, Rejected
+2, Graduate, No,9500000,31500000,12,650, Approved
+3, Graduate, Yes,4200000,15400000,8,362, Rejected
+5, Graduate, Yes,6900000,18600000,18,307, Rejected
+5, Graduate, No,9900000,24600000,2,530, Rejected
+5, Graduate, No,6700000,17700000,6,482, Rejected
+0, Not Graduate, Yes,9300000,22200000,14,701, Approved
+2, Graduate, No,5600000,17200000,16,586, Approved
+0, Graduate, Yes,8100000,17600000,16,384, Rejected
+4, Not Graduate, No,6000000,18000000,18,882, Approved
+5, Not Graduate, Yes,4200000,11200000,2,758, Approved
+5, Graduate, No,1600000,4000000,18,529, Rejected
+3, Graduate, Yes,800000,1500000,2,589, Approved
+1, Graduate, No,500000,1300000,6,670, Approved
+5, Not Graduate, Yes,4300000,14100000,12,532, Rejected
+0, Not Graduate, No,4000000,12500000,18,868, Approved
+2, Not Graduate, No,2900000,7300000,2,776, Approved
+5, Graduate, Yes,2300000,9100000,16,644, Approved
+0, Graduate, Yes,1800000,6000000,12,658, Approved
+1, Graduate, Yes,8700000,33900000,10,766, Approved
+3, Not Graduate, No,7800000,21100000,12,717, Approved
+2, Graduate, No,3200000,6300000,10,339, Rejected
+0, Not Graduate, No,1600000,4500000,18,463, Rejected
+4, Not Graduate, No,2400000,7300000,4,540, Approved
+1, Graduate, No,1800000,5900000,16,804, Approved
+1, Graduate, No,7500000,16000000,10,541, Rejected
+4, Not Graduate, Yes,6700000,18400000,10,371, Rejected
+5, Graduate, No,5800000,13700000,6,369, Rejected
+0, Not Graduate, No,500000,1800000,2,651, Approved
+0, Graduate, Yes,9400000,30700000,10,477, Rejected
+4, Not Graduate, No,1600000,6200000,18,554, Approved
+0, Graduate, Yes,9300000,25000000,14,362, Rejected
+5, Graduate, No,3700000,14000000,2,469, Approved
+3, Not Graduate, No,900000,1900000,12,547, Rejected
+4, Not Graduate, No,500000,1300000,6,809, Approved
+1, Graduate, Yes,7800000,16200000,2,335, Rejected
+5, Not Graduate, Yes,5300000,13700000,18,708, Approved
+0, Graduate, No,300000,700000,16,779, Approved
+0, Graduate, Yes,5000000,19900000,6,748, Approved
+0, Graduate, No,7900000,28600000,18,541, Rejected
+4, Graduate, No,5300000,15800000,2,527, Rejected
+0, Not Graduate, Yes,5500000,15300000,4,859, Approved
+0, Graduate, No,1500000,5600000,18,604, Approved
+5, Graduate, No,6600000,20100000,18,348, Rejected
+4, Graduate, Yes,6200000,16200000,20,734, Approved
+3, Graduate, No,6300000,17000000,16,388, Rejected
+0, Graduate, Yes,3800000,8100000,20,831, Approved
+5, Not Graduate, No,500000,1500000,6,433, Rejected
+2, Graduate, Yes,5000000,15900000,16,699, Approved
+0, Not Graduate, No,4500000,17100000,8,303, Rejected
+4, Not Graduate, No,1000000,3800000,2,611, Approved
+2, Graduate, No,1700000,3700000,20,558, Approved
+4, Graduate, Yes,1200000,4800000,2,752, Approved
+5, Not Graduate, Yes,8500000,25800000,14,786, Approved
+0, Graduate, No,8600000,29000000,18,481, Rejected
+2, Graduate, No,400000,1300000,16,507, Rejected
+4, Graduate, No,8700000,19800000,14,715, Approved
+0, Not Graduate, No,1800000,5700000,20,392, Rejected
+0, Graduate, Yes,4700000,17700000,16,887, Approved
+0, Not Graduate, No,7300000,21600000,2,479, Rejected
+2, Graduate, No,8400000,32100000,20,328, Rejected
+2, Graduate, Yes,4800000,12900000,8,740, Approved
+2, Graduate, No,9200000,34200000,2,456, Approved
+1, Not Graduate, No,6200000,21100000,10,467, Rejected
+0, Graduate, Yes,200000,700000,10,587, Rejected
+0, Not Graduate, Yes,2500000,6700000,16,569, Approved
+3, Not Graduate, Yes,8000000,24400000,14,399, Rejected
+1, Not Graduate, No,4600000,15200000,4,593, Approved
+3, Not Graduate, Yes,4900000,12700000,8,409, Rejected
+4, Not Graduate, No,9500000,21300000,18,353, Rejected
+5, Graduate, Yes,4500000,11600000,20,306, Rejected
+2, Graduate, Yes,5900000,14200000,12,499, Rejected
+4, Graduate, No,4200000,14600000,6,324, Rejected
+2, Not Graduate, Yes,3300000,11300000,6,647, Approved
+2, Graduate, Yes,4900000,12600000,2,767, Approved
+4, Not Graduate, No,5300000,10700000,12,821, Approved
+4, Not Graduate, No,7200000,17700000,6,338, Rejected
+0, Graduate, No,8400000,24300000,4,785, Approved
+3, Graduate, No,3800000,11800000,4,694, Approved
+0, Not Graduate, No,9900000,22300000,20,613, Approved
+4, Graduate, Yes,2900000,8300000,10,318, Rejected
+3, Not Graduate, Yes,6000000,18700000,18,783, Approved
+2, Not Graduate, No,1700000,5300000,20,761, Approved
+4, Graduate, Yes,5300000,12000000,10,329, Rejected
+5, Not Graduate, Yes,7500000,15000000,14,661, Approved
+4, Not Graduate, No,400000,900000,18,339, Rejected
+1, Graduate, Yes,8300000,17700000,10,673, Approved
+3, Graduate, No,4500000,16900000,18,748, Approved
+3, Graduate, No,4600000,10000000,4,702, Approved
+4, Not Graduate, No,4700000,10300000,12,710, Approved
+0, Graduate, Yes,900000,3500000,6,331, Rejected
+1, Not Graduate, No,2400000,7600000,12,372, Rejected
+0, Not Graduate, Yes,3900000,9600000,10,783, Approved
+0, Graduate, No,8300000,31400000,18,558, Approved
+4, Graduate, Yes,4700000,13000000,6,552, Approved
+4, Not Graduate, No,3900000,10600000,20,544, Rejected
+2, Not Graduate, No,400000,1000000,6,425, Rejected
+2, Not Graduate, Yes,1700000,5100000,18,321, Rejected
+2, Graduate, Yes,6100000,15500000,8,758, Approved
+5, Graduate, Yes,7300000,19600000,10,373, Rejected
+3, Not Graduate, Yes,300000,500000,6,876, Approved
+2, Not Graduate, No,4300000,14500000,10,594, Approved
+3, Not Graduate, No,7000000,18400000,18,837, Approved
+0, Not Graduate, Yes,4900000,16500000,4,600, Approved
+4, Graduate, No,6200000,12400000,20,547, Rejected
+1, Not Graduate, No,4100000,15800000,12,431, Rejected
+0, Not Graduate, Yes,7300000,22600000,12,851, Approved
+4, Not Graduate, Yes,9200000,28100000,12,760, Approved
+0, Not Graduate, No,800000,2400000,2,716, Approved
+4, Not Graduate, No,2900000,11200000,10,744, Approved
+3, Not Graduate, No,8100000,21600000,4,740, Approved
+0, Graduate, No,9300000,20300000,14,759, Approved
+4, Graduate, Yes,9200000,29400000,14,517, Rejected
+3, Not Graduate, Yes,3100000,6300000,18,895, Approved
+3, Not Graduate, Yes,7000000,15400000,20,315, Rejected
+4, Not Graduate, No,3900000,8800000,14,527, Rejected
+3, Graduate, No,5500000,19800000,14,853, Approved
+0, Graduate, No,6600000,13700000,20,747, Approved
+2, Not Graduate, No,9900000,31600000,16,892, Approved
+4, Graduate, Yes,6600000,20500000,8,856, Approved
+3, Graduate, No,8600000,23600000,4,324, Rejected
+5, Graduate, No,7900000,28600000,12,812, Approved
+5, Graduate, Yes,6800000,22600000,2,804, Approved
+4, Graduate, No,700000,1800000,8,874, Approved
+2, Not Graduate, Yes,3800000,10000000,12,516, Rejected
+5, Graduate, Yes,6900000,18300000,4,402, Rejected
+1, Graduate, Yes,3700000,12400000,12,330, Rejected
+1, Graduate, No,7900000,24000000,12,867, Approved
+4, Graduate, Yes,8800000,34200000,16,844, Approved
+5, Not Graduate, Yes,3300000,7800000,8,310, Rejected
+4, Not Graduate, No,5800000,14200000,20,535, Rejected
+1, Graduate, Yes,7400000,29500000,16,323, Rejected
+1, Graduate, No,8200000,25600000,4,686, Approved
+0, Not Graduate, Yes,3300000,9600000,8,465, Rejected
+4, Graduate, Yes,5300000,10700000,12,547, Rejected
+1, Not Graduate, No,5700000,19100000,12,649, Approved
+2, Not Graduate, No,9000000,31000000,14,670, Approved
+3, Graduate, No,5900000,14400000,10,408, Rejected
+2, Not Graduate, No,5400000,11900000,6,303, Rejected
+0, Graduate, No,9800000,34800000,14,497, Rejected
+4, Graduate, Yes,9800000,34100000,14,740, Approved
+4, Not Graduate, Yes,3800000,8200000,4,309, Rejected
+0, Not Graduate, No,9500000,24400000,14,769, Approved
+3, Graduate, Yes,2500000,7100000,6,420, Rejected
+1, Graduate, No,1900000,6000000,20,540, Rejected
+5, Graduate, Yes,4400000,10600000,20,806, Approved
+4, Graduate, Yes,1400000,2900000,6,723, Approved
+5, Not Graduate, Yes,3200000,11800000,16,565, Approved
+1, Graduate, Yes,3100000,9200000,16,374, Rejected
+4, Graduate, No,4500000,9900000,10,509, Rejected
+3, Not Graduate, Yes,9300000,23500000,16,728, Approved
+2, Graduate, No,6900000,18200000,20,396, Rejected
+0, Not Graduate, Yes,3900000,8600000,2,667, Approved
+5, Not Graduate, No,3200000,7400000,12,583, Approved
+1, Not Graduate, Yes,5600000,21100000,10,459, Rejected
+4, Not Graduate, Yes,3700000,11900000,18,635, Approved
+3, Not Graduate, No,8400000,27200000,12,604, Approved
+0, Not Graduate, Yes,4200000,8900000,14,796, Approved
+4, Graduate, No,3800000,8500000,10,416, Rejected
+3, Graduate, No,3200000,8200000,8,311, Rejected
+1, Graduate, No,9700000,33900000,10,833, Approved
+1, Not Graduate, Yes,4300000,9400000,6,543, Rejected
+5, Graduate, Yes,8100000,20300000,18,751, Approved
+5, Not Graduate, Yes,9400000,23200000,14,885, Approved
+4, Not Graduate, Yes,8100000,19400000,6,346, Rejected
+4, Graduate, No,6500000,14500000,4,588, Approved
+2, Graduate, No,9400000,23100000,4,488, Rejected
+1, Not Graduate, Yes,2600000,6600000,20,765, Approved
+3, Not Graduate, Yes,8000000,25600000,6,337, Rejected
+1, Graduate, No,4700000,9300000,8,515, Rejected
+2, Graduate, Yes,7600000,22300000,12,555, Approved
+1, Graduate, Yes,6800000,27200000,2,702, Approved
+2, Not Graduate, Yes,6600000,17000000,2,457, Rejected
+2, Graduate, No,8200000,27200000,10,425, Rejected
+1, Graduate, Yes,4400000,12300000,6,583, Approved
+1, Not Graduate, No,8300000,29200000,6,877, Approved
+0, Graduate, No,9200000,36500000,14,522, Rejected
+5, Not Graduate, Yes,2700000,8700000,20,687, Approved
+0, Graduate, No,6100000,23600000,20,856, Approved
+4, Not Graduate, Yes,9100000,33000000,8,543, Rejected
+5, Not Graduate, Yes,7600000,15400000,14,576, Approved
+2, Not Graduate, No,7200000,17000000,10,856, Approved
+0, Graduate, Yes,2600000,8200000,8,722, Approved
+4, Graduate, Yes,6500000,20200000,12,653, Approved
+5, Graduate, No,8900000,35500000,16,480, Rejected
+2, Graduate, Yes,5400000,14300000,14,477, Rejected
+0, Graduate, No,300000,500000,2,885, Approved
+0, Not Graduate, No,8400000,19600000,18,530, Rejected
+3, Graduate, No,8300000,17200000,8,870, Approved
+4, Not Graduate, No,1700000,5600000,8,395, Rejected
+2, Not Graduate, No,1500000,4200000,16,771, Approved
+1, Not Graduate, Yes,200000,500000,2,579, Approved
+1, Graduate, Yes,1000000,3700000,14,798, Approved
+3, Not Graduate, Yes,8800000,25100000,8,473, Rejected
+0, Graduate, Yes,1000000,3200000,8,304, Rejected
+0, Not Graduate, Yes,8600000,23000000,14,678, Approved
+5, Graduate, Yes,2400000,8900000,2,745, Approved
+1, Graduate, No,2400000,8900000,8,835, Approved
+5, Not Graduate, Yes,6000000,12100000,20,848, Approved
+5, Not Graduate, No,7600000,16300000,18,872, Approved
+3, Not Graduate, No,8000000,20100000,10,608, Approved
+0, Graduate, Yes,5400000,19500000,16,758, Approved
+0, Not Graduate, Yes,1400000,3700000,4,841, Approved
+0, Not Graduate, Yes,800000,2600000,2,618, Approved
+4, Graduate, Yes,300000,1100000,4,457, Approved
+0, Graduate, No,4100000,14400000,4,844, Approved
+2, Not Graduate, No,1500000,3800000,4,776, Approved
+1, Not Graduate, No,4600000,13900000,8,520, Rejected
+1, Graduate, Yes,3300000,7500000,12,648, Approved
+4, Not Graduate, Yes,7900000,31400000,10,654, Approved
+0, Not Graduate, No,8100000,26500000,20,342, Rejected
+5, Not Graduate, No,900000,2800000,16,808, Approved
+1, Graduate, Yes,4900000,15200000,10,429, Rejected
+3, Graduate, Yes,6100000,18100000,14,538, Rejected
+3, Not Graduate, No,4500000,16400000,6,533, Rejected
+2, Graduate, Yes,2900000,7300000,8,394, Rejected
+1, Not Graduate, No,7900000,29300000,2,771, Approved
+5, Graduate, Yes,4100000,10100000,4,792, Approved
+5, Not Graduate, Yes,7700000,15500000,8,407, Rejected
+0, Not Graduate, No,5600000,19300000,18,544, Rejected
+5, Graduate, No,9000000,18000000,18,509, Rejected
+4, Not Graduate, Yes,6400000,18400000,16,320, Rejected
+4, Graduate, No,6900000,14700000,2,496, Rejected
+3, Not Graduate, No,9100000,27400000,18,652, Approved
+2, Graduate, Yes,1100000,3700000,2,806, Approved
+4, Not Graduate, No,1700000,4500000,12,821, Approved
+5, Graduate, Yes,9200000,28800000,20,618, Approved
+2, Not Graduate, Yes,8300000,20600000,12,729, Approved
+5, Not Graduate, Yes,5000000,10600000,6,839, Approved
+3, Graduate, No,2200000,6400000,2,318, Rejected
+2, Graduate, No,4500000,9600000,16,404, Rejected
+5, Not Graduate, Yes,4100000,9000000,6,581, Approved
+1, Not Graduate, No,2800000,6800000,18,596, Approved
+1, Not Graduate, No,6600000,20700000,4,415, Approved
+3, Not Graduate, Yes,3200000,7200000,6,728, Approved
+0, Not Graduate, No,6300000,13300000,2,666, Approved
+2, Graduate, No,4700000,17700000,14,675, Approved
+0, Graduate, No,4100000,15400000,16,304, Rejected
+5, Graduate, Yes,7100000,15500000,4,474, Rejected
+4, Graduate, Yes,4900000,10200000,18,370, Rejected
+4, Graduate, No,5600000,20300000,20,596, Approved
+4, Graduate, No,3400000,8300000,2,567, Approved
+3, Not Graduate, No,4500000,16100000,16,671, Approved
+2, Graduate, No,300000,800000,18,819, Approved
+5, Not Graduate, Yes,7600000,23000000,10,829, Approved
+5, Graduate, No,500000,1200000,12,454, Rejected
+0, Graduate, Yes,5900000,15200000,16,399, Rejected
+0, Graduate, No,7100000,20700000,10,784, Approved
+2, Not Graduate, Yes,8500000,26900000,6,538, Rejected
+0, Graduate, Yes,6400000,16900000,16,759, Approved
+2, Graduate, No,7100000,21400000,12,699, Approved
+5, Not Graduate, No,1800000,5400000,14,347, Rejected
+3, Not Graduate, Yes,6600000,25200000,20,598, Approved
+4, Graduate, Yes,8800000,27100000,2,406, Approved
+2, Not Graduate, No,4800000,15800000,20,860, Approved
+5, Graduate, Yes,4400000,16500000,10,806, Approved
+0, Not Graduate, No,2000000,6900000,2,448, Approved
+2, Graduate, No,6800000,22600000,20,393, Rejected
+5, Not Graduate, Yes,6600000,16000000,12,811, Approved
+2, Graduate, No,3300000,7900000,20,829, Approved
+3, Not Graduate, No,7400000,23400000,16,700, Approved
+0, Not Graduate, Yes,4500000,12400000,18,719, Approved
+1, Not Graduate, Yes,9500000,30500000,12,430, Rejected
+1, Graduate, No,800000,3000000,4,338, Approved
+2, Graduate, No,4000000,13000000,4,695, Approved
+2, Not Graduate, No,7000000,25700000,18,374, Rejected
+3, Graduate, No,3500000,8500000,18,609, Approved
+3, Graduate, Yes,9700000,36000000,6,631, Approved
+0, Not Graduate, No,3400000,10800000,6,439, Rejected
+1, Graduate, Yes,4600000,13500000,20,837, Approved
+4, Graduate, No,3800000,10400000,10,833, Approved
+4, Not Graduate, Yes,4200000,9600000,20,863, Approved
+2, Graduate, No,2500000,8700000,4,684, Approved
+0, Not Graduate, Yes,7000000,24600000,6,542, Rejected
+1, Not Graduate, No,5300000,11500000,8,753, Approved
+0, Not Graduate, No,6400000,14200000,2,512, Rejected
+3, Not Graduate, No,3400000,8100000,12,385, Rejected
+4, Not Graduate, No,6700000,18800000,2,749, Approved
+1, Not Graduate, Yes,4600000,10100000,4,618, Approved
+4, Graduate, Yes,900000,2500000,4,583, Approved
+0, Graduate, No,5100000,19900000,18,655, Approved
+0, Not Graduate, Yes,7000000,20900000,20,380, Rejected
+3, Graduate, Yes,4100000,14700000,6,679, Approved
+2, Graduate, No,4600000,14800000,6,410, Rejected
+2, Graduate, Yes,3600000,11500000,8,590, Approved
+5, Graduate, No,5900000,13800000,14,397, Rejected
+2, Graduate, No,600000,2100000,16,425, Rejected
+0, Graduate, No,4900000,16400000,2,383, Approved
+5, Graduate, Yes,6400000,23900000,6,406, Rejected
+2, Graduate, No,7000000,19800000,10,563, Approved
+3, Graduate, Yes,6700000,13400000,14,782, Approved
+1, Not Graduate, Yes,800000,2200000,4,852, Approved
+5, Not Graduate, No,7600000,27800000,2,753, Approved
+5, Graduate, Yes,3200000,7600000,4,489, Rejected
+2, Not Graduate, Yes,4900000,13800000,2,586, Approved
+3, Not Graduate, No,7200000,20800000,16,560, Approved
+3, Graduate, No,5600000,20600000,6,487, Rejected
+4, Graduate, Yes,7300000,18300000,8,434, Rejected
+4, Not Graduate, No,3300000,7000000,20,504, Rejected
+2, Graduate, Yes,9200000,25300000,4,827, Approved
+3, Not Graduate, Yes,8100000,23300000,20,657, Approved
+5, Graduate, No,6600000,21400000,10,447, Rejected
+0, Graduate, Yes,4200000,13600000,4,834, Approved
+2, Graduate, No,5800000,21700000,8,354, Rejected
+2, Graduate, Yes,5600000,21000000,18,883, Approved
+0, Not Graduate, Yes,3600000,9900000,12,641, Approved
+1, Graduate, Yes,7700000,16900000,6,621, Approved
+0, Graduate, Yes,7800000,23300000,10,587, Approved
+3, Not Graduate, No,5700000,15400000,16,424, Rejected
+5, Graduate, No,6300000,20500000,14,515, Rejected
+5, Not Graduate, Yes,2300000,4700000,18,592, Approved
+4, Graduate, Yes,9600000,19900000,6,319, Rejected
+1, Not Graduate, Yes,1000000,3900000,16,360, Rejected
+5, Graduate, Yes,7200000,27100000,12,535, Rejected
+2, Not Graduate, Yes,3800000,11400000,16,666, Approved
+4, Not Graduate, Yes,9300000,24600000,16,419, Rejected
+2, Not Graduate, Yes,7200000,21900000,12,640, Approved
+0, Graduate, No,7600000,19700000,12,545, Rejected
+4, Graduate, No,4500000,15300000,10,843, Approved
+1, Not Graduate, Yes,9900000,30900000,20,559, Approved
+0, Not Graduate, Yes,700000,2000000,18,650, Approved
+0, Graduate, No,3500000,12300000,16,479, Rejected
+1, Graduate, Yes,300000,1000000,14,324, Rejected
+5, Not Graduate, Yes,5400000,16700000,2,354, Approved
+4, Not Graduate, Yes,2800000,8400000,10,521, Rejected
+5, Not Graduate, Yes,4900000,15900000,8,505, Rejected
+4, Not Graduate, No,600000,1700000,12,436, Rejected
+0, Graduate, No,3000000,8100000,6,683, Approved
+0, Graduate, No,1800000,5800000,18,348, Rejected
+4, Graduate, Yes,5100000,15700000,6,867, Approved
+5, Graduate, No,1400000,4100000,14,880, Approved
+2, Graduate, Yes,6700000,25500000,10,673, Approved
+3, Not Graduate, No,4300000,12600000,18,482, Rejected
+3, Graduate, Yes,7800000,19600000,4,767, Approved
+3, Not Graduate, No,5400000,15800000,18,760, Approved
+0, Not Graduate, No,500000,1900000,2,857, Approved
+1, Graduate, No,8600000,26700000,10,735, Approved
+3, Graduate, No,2500000,9300000,4,810, Approved
+4, Not Graduate, No,3000000,7200000,2,680, Approved
+5, Not Graduate, Yes,7000000,26900000,4,889, Approved
+1, Not Graduate, Yes,400000,1500000,16,688, Approved
+5, Not Graduate, No,5200000,13700000,16,531, Rejected
+3, Graduate, No,3300000,11100000,2,660, Approved
+1, Not Graduate, Yes,2400000,8800000,18,414, Rejected
+4, Graduate, Yes,5800000,15800000,14,528, Rejected
+4, Not Graduate, Yes,9400000,20000000,12,817, Approved
+2, Not Graduate, No,6100000,15300000,2,799, Approved
+1, Graduate, Yes,7500000,21400000,20,655, Approved
+2, Not Graduate, No,4100000,16200000,6,546, Rejected
+3, Not Graduate, No,8500000,30800000,14,745, Approved
+0, Graduate, No,4300000,16900000,8,884, Approved
+5, Not Graduate, No,9300000,22000000,4,822, Approved
+4, Not Graduate, No,6000000,18700000,2,623, Approved
+1, Not Graduate, Yes,5300000,18900000,16,361, Rejected
+5, Not Graduate, Yes,7400000,16200000,2,778, Approved
+1, Not Graduate, Yes,1100000,3800000,8,779, Approved
+1, Graduate, Yes,6600000,20700000,4,594, Approved
+3, Graduate, No,8200000,28300000,2,530, Approved
+3, Not Graduate, No,3300000,9300000,12,324, Rejected
+4, Graduate, Yes,2500000,9000000,10,394, Rejected
+3, Graduate, Yes,3300000,10400000,12,816, Approved
+5, Not Graduate, No,1000000,2300000,16,423, Rejected
+5, Graduate, Yes,6200000,12800000,2,539, Rejected
+1, Graduate, No,7000000,21000000,20,554, Approved
+2, Graduate, Yes,7000000,19000000,6,523, Rejected
+1, Not Graduate, Yes,5300000,12000000,10,852, Approved
+0, Not Graduate, Yes,1800000,3700000,2,505, Rejected
+0, Graduate, Yes,2300000,7900000,10,430, Rejected
+2, Graduate, No,4000000,9200000,16,784, Approved
+1, Not Graduate, No,8900000,24000000,6,380, Rejected
+3, Graduate, No,8000000,18600000,20,565, Approved
+4, Graduate, Yes,7900000,26900000,14,446, Rejected
+5, Graduate, Yes,6700000,20200000,8,406, Rejected
+4, Not Graduate, No,2400000,6000000,6,712, Approved
+4, Not Graduate, No,8600000,22600000,14,729, Approved
+1, Not Graduate, Yes,5300000,14600000,20,508, Rejected
+0, Graduate, No,7400000,24900000,20,648, Approved
+0, Not Graduate, Yes,8700000,18700000,10,346, Rejected
+5, Graduate, No,8200000,18500000,4,394, Rejected
+0, Not Graduate, Yes,3700000,9700000,12,501, Rejected
+5, Not Graduate, Yes,9200000,36300000,2,655, Approved
+4, Not Graduate, No,6100000,20900000,4,662, Approved
+2, Graduate, Yes,8800000,30800000,20,820, Approved
+5, Not Graduate, No,9200000,18900000,10,521, Rejected
+3, Graduate, No,7200000,27900000,12,473, Rejected
+1, Graduate, No,600000,1200000,10,561, Approved
+5, Graduate, No,8000000,23100000,20,461, Rejected
+4, Graduate, Yes,6900000,13800000,16,715, Approved
+0, Not Graduate, Yes,4300000,15600000,18,440, Rejected
+3, Not Graduate, Yes,8500000,24900000,18,749, Approved
+4, Not Graduate, No,8600000,17400000,2,787, Approved
+3, Graduate, No,6300000,13900000,18,748, Approved
+3, Not Graduate, Yes,5800000,13600000,12,321, Rejected
+3, Graduate, Yes,1000000,2300000,10,303, Rejected
+0, Not Graduate, Yes,1700000,5400000,8,682, Approved
+2, Not Graduate, No,3200000,8600000,18,638, Approved
+0, Graduate, Yes,7500000,16600000,14,440, Rejected
+1, Not Graduate, Yes,2000000,6600000,10,873, Approved
+3, Not Graduate, No,9100000,19700000,20,437, Rejected
+4, Graduate, Yes,8400000,19700000,8,796, Approved
+4, Graduate, No,7100000,27200000,16,824, Approved
+2, Not Graduate, No,200000,800000,6,338, Rejected
+0, Not Graduate, Yes,5000000,14900000,12,575, Approved
+0, Not Graduate, Yes,4500000,16900000,8,773, Approved
+2, Not Graduate, Yes,5100000,19700000,2,733, Approved
+3, Graduate, Yes,4100000,10600000,14,475, Rejected
+1, Not Graduate, No,7200000,15000000,10,677, Approved
+3, Not Graduate, No,7800000,17700000,6,403, Rejected
+3, Graduate, Yes,7500000,25300000,12,767, Approved
+3, Graduate, Yes,6400000,21000000,2,813, Approved
+4, Graduate, No,7000000,25700000,20,597, Approved
+4, Not Graduate, Yes,9000000,31100000,8,896, Approved
+2, Not Graduate, Yes,4400000,13900000,6,810, Approved
+2, Not Graduate, No,900000,2000000,14,337, Rejected
+1, Graduate, No,9800000,26900000,18,792, Approved
+4, Not Graduate, No,600000,1600000,6,784, Approved
+5, Graduate, Yes,9700000,30100000,12,434, Rejected
+2, Graduate, Yes,8400000,32600000,10,384, Rejected
+1, Graduate, No,8300000,24900000,10,642, Approved
+4, Graduate, No,7900000,29900000,8,314, Rejected
+1, Not Graduate, No,8600000,25900000,2,606, Approved
+5, Not Graduate, Yes,6700000,17600000,14,843, Approved
+0, Graduate, No,2700000,7400000,10,778, Approved
+0, Not Graduate, No,6600000,25600000,8,718, Approved
+1, Graduate, Yes,7100000,20800000,20,437, Rejected
+5, Graduate, Yes,300000,700000,10,586, Approved
+2, Graduate, No,2200000,7000000,6,777, Approved
+1, Graduate, Yes,8700000,31700000,12,525, Rejected
+4, Graduate, No,7200000,23100000,12,632, Approved
+0, Not Graduate, No,2000000,4800000,20,337, Rejected
+4, Graduate, Yes,8600000,27900000,8,458, Rejected
+2, Graduate, Yes,2300000,5400000,8,364, Rejected
+2, Not Graduate, Yes,9600000,29800000,16,499, Rejected
+2, Graduate, Yes,1900000,6500000,16,887, Approved
+1, Graduate, No,2100000,6300000,16,882, Approved
+1, Not Graduate, Yes,3900000,8700000,8,817, Approved
+5, Not Graduate, Yes,200000,300000,10,704, Approved
+1, Not Graduate, Yes,1900000,4500000,12,742, Approved
+0, Not Graduate, Yes,3200000,11600000,4,393, Approved
+0, Not Graduate, No,1100000,4300000,18,828, Approved
+5, Graduate, Yes,8000000,21500000,12,779, Approved
+4, Graduate, Yes,6100000,21700000,6,860, Approved
+5, Graduate, No,3200000,10600000,2,432, Approved
+4, Graduate, Yes,9000000,30400000,20,532, Rejected
+0, Not Graduate, Yes,1200000,3200000,2,678, Approved
+3, Graduate, No,7900000,27000000,6,601, Approved
+3, Graduate, Yes,7700000,23100000,8,807, Approved
+2, Not Graduate, No,4400000,16500000,16,879, Approved
+1, Not Graduate, No,3100000,11200000,18,665, Approved
+5, Not Graduate, Yes,2600000,9300000,16,697, Approved
+4, Graduate, No,5500000,21700000,14,867, Approved
+1, Graduate, No,5700000,15500000,8,544, Rejected
+5, Graduate, No,6100000,20700000,20,482, Rejected
+2, Graduate, No,8200000,22500000,18,857, Approved
+1, Graduate, No,6000000,21200000,12,549, Rejected
+1, Graduate, Yes,8000000,30600000,10,720, Approved
+4, Not Graduate, No,2000000,4800000,8,302, Rejected
+5, Graduate, Yes,1300000,2900000,12,669, Approved
+1, Graduate, No,7000000,27100000,6,591, Approved
+3, Graduate, No,4100000,15300000,6,440, Rejected
+3, Graduate, No,8000000,26200000,16,890, Approved
+4, Not Graduate, No,8100000,28000000,8,663, Approved
+4, Graduate, Yes,9500000,22600000,14,433, Rejected
+0, Graduate, No,9200000,22500000,10,317, Rejected
+2, Graduate, No,3900000,14700000,16,360, Rejected
+1, Graduate, No,9100000,26200000,8,727, Approved
+3, Graduate, Yes,3000000,8300000,4,685, Approved
+4, Graduate, No,2000000,4300000,8,373, Rejected
+5, Graduate, No,6300000,14600000,8,469, Rejected
+3, Not Graduate, Yes,4100000,10900000,8,548, Rejected
+0, Not Graduate, No,9800000,29400000,20,618, Approved
+2, Graduate, No,5200000,15400000,8,658, Approved
+3, Graduate, No,7600000,28700000,18,781, Approved
+3, Not Graduate, No,9200000,35500000,2,715, Approved
+5, Not Graduate, No,2200000,8100000,4,409, Rejected
+2, Not Graduate, Yes,8300000,20600000,10,504, Rejected
+3, Graduate, Yes,6100000,21600000,16,428, Rejected
+2, Graduate, No,4500000,16600000,20,704, Approved
+3, Not Graduate, No,6600000,18800000,12,834, Approved
+4, Not Graduate, No,8900000,34900000,14,694, Approved
+4, Graduate, Yes,3900000,13300000,20,453, Rejected
+3, Graduate, Yes,8900000,35400000,14,404, Rejected
+5, Not Graduate, No,6400000,22300000,12,776, Approved
+1, Not Graduate, Yes,9500000,28700000,16,526, Rejected
+3, Graduate, Yes,300000,1000000,8,641, Approved
+5, Not Graduate, No,4100000,12300000,6,582, Approved
+2, Graduate, No,8100000,20800000,18,778, Approved
+4, Graduate, No,9900000,28400000,10,763, Approved
+0, Not Graduate, No,4800000,19000000,12,650, Approved
+0, Graduate, Yes,2900000,9700000,2,820, Approved
+1, Not Graduate, Yes,3500000,13500000,12,824, Approved
+1, Not Graduate, Yes,4900000,12600000,4,718, Approved
+2, Not Graduate, Yes,5100000,13300000,14,313, Rejected
+5, Graduate, No,7300000,26200000,10,751, Approved
+0, Graduate, Yes,200000,300000,18,520, Rejected
+2, Graduate, No,1400000,4700000,4,355, Approved
+3, Graduate, Yes,8700000,33600000,14,314, Rejected
+1, Not Graduate, Yes,2800000,5900000,20,728, Approved
+3, Graduate, Yes,9100000,30100000,14,564, Approved
+0, Not Graduate, Yes,6800000,15300000,14,699, Approved
+0, Not Graduate, Yes,5000000,17000000,6,624, Approved
+0, Graduate, Yes,4400000,16800000,14,795, Approved
+5, Not Graduate, Yes,8400000,18600000,20,703, Approved
+4, Graduate, No,7800000,17300000,4,394, Rejected
+4, Graduate, Yes,4800000,9900000,14,779, Approved
+1, Graduate, No,3200000,8800000,4,405, Rejected
+5, Graduate, Yes,2300000,6700000,16,612, Approved
+5, Not Graduate, Yes,9200000,28100000,10,448, Rejected
+2, Not Graduate, Yes,4700000,13700000,6,506, Rejected
+0, Not Graduate, Yes,8000000,30400000,2,776, Approved
+1, Graduate, Yes,2600000,8600000,6,730, Approved
+3, Not Graduate, No,200000,800000,20,730, Approved
+5, Graduate, No,7300000,17200000,2,345, Rejected
+4, Not Graduate, No,3300000,11800000,2,847, Approved
+4, Not Graduate, No,8300000,23300000,20,398, Rejected
+5, Not Graduate, Yes,4100000,9600000,2,307, Rejected
+1, Not Graduate, No,7300000,23700000,16,852, Approved
+1, Not Graduate, No,9300000,27500000,6,364, Rejected
+2, Graduate, Yes,4300000,15200000,12,552, Approved
+3, Not Graduate, No,2600000,8100000,2,421, Approved
+5, Graduate, No,2900000,9800000,12,588, Approved
+2, Graduate, Yes,900000,3500000,6,763, Approved
+3, Not Graduate, Yes,4900000,17500000,20,823, Approved
+0, Graduate, No,7700000,24800000,10,642, Approved
+1, Graduate, No,4700000,16800000,12,647, Approved
+5, Not Graduate, No,3000000,8900000,20,886, Approved
+4, Not Graduate, No,9700000,26200000,4,518, Rejected
+0, Graduate, Yes,6900000,26800000,20,515, Rejected
+2, Not Graduate, Yes,3800000,12400000,8,340, Rejected
+3, Not Graduate, Yes,600000,1700000,14,521, Rejected
+2, Not Graduate, Yes,1200000,2900000,12,330, Rejected
+4, Not Graduate, Yes,7800000,26800000,2,474, Approved
+0, Not Graduate, No,9000000,35100000,6,898, Approved
+1, Not Graduate, No,2800000,9100000,12,436, Rejected
+1, Not Graduate, No,7800000,21300000,10,326, Rejected
+4, Graduate, Yes,4700000,9500000,18,876, Approved
+2, Graduate, No,4600000,17500000,20,597, Approved
+4, Graduate, No,5100000,16100000,14,436, Rejected
+3, Not Graduate, Yes,6100000,22800000,18,640, Approved
+0, Not Graduate, No,6000000,22900000,16,302, Rejected
+2, Not Graduate, No,8400000,23200000,16,476, Rejected
+2, Graduate, No,9300000,22000000,14,393, Rejected
+0, Graduate, No,4200000,10300000,10,506, Rejected
+3, Graduate, No,9600000,37800000,10,418, Rejected
+3, Graduate, No,5600000,13400000,6,865, Approved
+4, Graduate, No,7800000,28600000,2,703, Approved
+2, Graduate, Yes,4500000,12600000,2,568, Approved
+3, Graduate, No,2400000,5900000,2,425, Rejected
+0, Not Graduate, No,3900000,11300000,12,305, Rejected
+5, Graduate, Yes,9600000,20600000,6,456, Rejected
+4, Not Graduate, No,900000,2600000,2,602, Approved
+3, Graduate, Yes,1100000,3800000,20,814, Approved
+4, Not Graduate, No,6400000,24900000,2,640, Approved
+2, Graduate, No,4600000,15000000,4,817, Approved
+4, Graduate, No,7600000,29800000,20,361, Rejected
+5, Not Graduate, No,6800000,20100000,14,839, Approved
+5, Graduate, No,7100000,27000000,20,592, Approved
+4, Not Graduate, Yes,6700000,24700000,6,498, Rejected
+5, Not Graduate, Yes,5800000,12400000,6,847, Approved
+0, Graduate, Yes,8600000,29400000,16,643, Approved
+0, Graduate, Yes,3500000,10600000,4,389, Approved
+2, Graduate, Yes,4800000,17500000,20,381, Rejected
+5, Graduate, Yes,6100000,14400000,16,400, Rejected
+5, Graduate, Yes,5200000,12700000,16,718, Approved
+5, Not Graduate, Yes,4100000,12400000,8,309, Rejected
+5, Not Graduate, No,3200000,7400000,2,838, Approved
+3, Not Graduate, Yes,7500000,21600000,14,678, Approved
+2, Not Graduate, Yes,1500000,4500000,14,826, Approved
+4, Graduate, Yes,1200000,3100000,16,348, Rejected
+1, Graduate, Yes,8400000,19700000,6,476, Rejected
+0, Not Graduate, Yes,7900000,26300000,8,666, Approved
+1, Graduate, Yes,2100000,4300000,20,896, Approved
+2, Graduate, No,2500000,7000000,20,547, Rejected
+2, Not Graduate, Yes,3700000,13900000,2,405, Approved
+5, Graduate, No,1100000,4000000,16,498, Rejected
+5, Graduate, No,6500000,24800000,8,779, Approved
+0, Not Graduate, Yes,8200000,31500000,8,403, Rejected
+2, Not Graduate, No,5000000,12400000,8,709, Approved
+1, Not Graduate, No,1500000,6000000,6,507, Rejected
+5, Not Graduate, No,3700000,9100000,18,368, Rejected
+3, Graduate, Yes,4100000,14600000,16,760, Approved
+2, Not Graduate, No,7200000,16800000,6,796, Approved
+1, Graduate, No,2000000,5000000,6,876, Approved
+3, Not Graduate, No,2000000,4700000,14,673, Approved
+1, Graduate, Yes,5100000,11500000,4,747, Approved
+1, Not Graduate, No,6000000,13600000,12,589, Approved
+1, Graduate, No,4900000,18100000,8,382, Rejected
+3, Not Graduate, Yes,900000,2300000,12,900, Approved
+1, Graduate, Yes,7500000,25000000,18,628, Approved
+2, Graduate, No,6400000,25000000,12,667, Approved
+2, Graduate, Yes,8700000,26400000,2,778, Approved
+4, Graduate, Yes,7300000,17200000,18,831, Approved
+5, Graduate, No,7400000,27100000,4,320, Approved
+2, Graduate, No,2700000,9300000,16,656, Approved
+3, Graduate, No,3400000,8900000,6,896, Approved
+3, Not Graduate, Yes,2100000,7400000,4,320, Approved
+2, Not Graduate, No,3100000,10500000,10,751, Approved
+5, Not Graduate, No,4700000,17400000,2,523, Approved
+5, Graduate, No,3100000,10500000,6,584, Approved
+2, Not Graduate, No,5700000,20400000,2,630, Approved
+3, Graduate, Yes,2300000,8000000,14,472, Rejected
+0, Not Graduate, Yes,6600000,18500000,16,802, Approved
+2, Graduate, Yes,2700000,6400000,18,547, Rejected
+1, Not Graduate, Yes,800000,2800000,16,726, Approved
+1, Graduate, No,6600000,18500000,8,712, Approved
+3, Graduate, No,3900000,10700000,6,790, Approved
+5, Not Graduate, No,200000,600000,16,396, Rejected
+3, Graduate, No,2000000,4200000,6,831, Approved
+2, Graduate, Yes,9100000,20900000,20,632, Approved
+3, Graduate, No,4700000,10800000,8,527, Rejected
+3, Not Graduate, Yes,3200000,11100000,6,708, Approved
+2, Not Graduate, No,1700000,4200000,14,829, Approved
+1, Not Graduate, No,2600000,8100000,12,854, Approved
+3, Not Graduate, Yes,2700000,6700000,14,899, Approved
+0, Not Graduate, Yes,3600000,13400000,6,589, Approved
+4, Graduate, Yes,7200000,26000000,6,571, Approved
+2, Not Graduate, Yes,2500000,6400000,6,708, Approved
+2, Not Graduate, No,5500000,19600000,16,328, Rejected
+3, Graduate, Yes,9200000,33500000,8,564, Approved
+3, Not Graduate, No,9000000,19000000,8,693, Approved
+4, Not Graduate, Yes,5900000,15000000,14,626, Approved
+4, Graduate, No,5600000,15600000,12,470, Rejected
+2, Not Graduate, Yes,3200000,12500000,8,849, Approved
+5, Not Graduate, No,9100000,27800000,16,547, Rejected
+0, Not Graduate, Yes,4600000,15100000,2,417, Approved
+4, Graduate, No,7300000,14900000,2,358, Rejected
+5, Not Graduate, Yes,1300000,3100000,16,826, Approved
+0, Not Graduate, No,1800000,4200000,6,836, Approved
+3, Graduate, No,500000,1700000,10,509, Rejected
+2, Not Graduate, Yes,5700000,20500000,20,581, Approved
+4, Graduate, No,300000,1100000,4,359, Approved
+5, Graduate, Yes,2100000,7100000,10,517, Rejected
+1, Not Graduate, Yes,5700000,20100000,14,442, Rejected
+1, Not Graduate, Yes,1100000,2700000,16,346, Rejected
+5, Graduate, No,9300000,34000000,6,742, Approved
+1, Graduate, Yes,3500000,8100000,10,626, Approved
+0, Not Graduate, Yes,8200000,28800000,4,619, Approved
+2, Not Graduate, Yes,7500000,17900000,20,734, Approved
+1, Graduate, Yes,7000000,25600000,6,420, Rejected
+5, Not Graduate, Yes,3900000,8300000,18,600, Approved
+3, Graduate, Yes,4700000,13200000,12,440, Rejected
+5, Not Graduate, Yes,1700000,5200000,16,820, Approved
+0, Graduate, No,2500000,7800000,8,437, Rejected
+1, Not Graduate, Yes,400000,1400000,12,468, Rejected
+0, Not Graduate, Yes,2400000,9100000,8,368, Rejected
+4, Graduate, No,5700000,21900000,2,871, Approved
+1, Graduate, No,9800000,37900000,4,816, Approved
+5, Graduate, No,9000000,32800000,4,773, Approved
+3, Not Graduate, No,800000,3000000,14,576, Approved
+1, Graduate, No,1600000,4500000,14,673, Approved
+0, Graduate, Yes,9800000,34100000,20,760, Approved
+5, Not Graduate, Yes,2900000,7500000,12,678, Approved
+4, Not Graduate, Yes,3900000,12000000,14,893, Approved
+0, Graduate, Yes,3300000,9000000,18,754, Approved
+3, Graduate, Yes,700000,2200000,8,617, Approved
+3, Not Graduate, Yes,8400000,29500000,20,661, Approved
+1, Graduate, Yes,4000000,12100000,12,356, Rejected
+0, Not Graduate, Yes,1900000,6300000,16,811, Approved
+0, Not Graduate, No,3900000,14600000,2,730, Approved
+5, Not Graduate, No,7400000,18000000,2,792, Approved
+5, Not Graduate, Yes,5900000,16000000,6,798, Approved
+2, Not Graduate, No,1400000,2900000,12,490, Rejected
+2, Graduate, Yes,1800000,5500000,6,448, Rejected
+0, Graduate, Yes,1000000,3100000,6,525, Rejected
+1, Graduate, No,7400000,19200000,20,415, Rejected
+5, Graduate, No,2700000,10600000,16,496, Rejected
+1, Not Graduate, Yes,3600000,13100000,8,543, Rejected
+5, Graduate, No,7000000,18400000,12,520, Rejected
+4, Not Graduate, Yes,5000000,18000000,14,307, Rejected
+2, Graduate, No,1800000,5700000,14,502, Rejected
+2, Graduate, Yes,4700000,12000000,6,505, Rejected
+2, Not Graduate, Yes,6700000,23100000,4,304, Approved
+5, Not Graduate, No,5800000,17500000,10,719, Approved
+0, Graduate, Yes,5900000,22700000,18,855, Approved
+4, Not Graduate, No,6000000,15800000,18,593, Approved
+1, Not Graduate, Yes,700000,1400000,10,523, Rejected
+0, Not Graduate, Yes,3700000,13100000,14,385, Rejected
+0, Graduate, Yes,7100000,19300000,6,783, Approved
+5, Graduate, Yes,1100000,3900000,2,538, Approved
+3, Not Graduate, Yes,9500000,20100000,2,506, Rejected
+4, Not Graduate, Yes,2200000,8600000,2,461, Approved
+4, Not Graduate, Yes,5500000,20000000,8,666, Approved
+3, Not Graduate, Yes,4400000,16300000,20,561, Approved
+5, Not Graduate, No,5000000,10800000,10,345, Rejected
+4, Not Graduate, Yes,6100000,12500000,14,862, Approved
+3, Not Graduate, No,8100000,22300000,10,686, Approved
+4, Graduate, Yes,7000000,19600000,8,708, Approved
+4, Not Graduate, No,5600000,14800000,20,656, Approved
+4, Graduate, No,1800000,7000000,14,743, Approved
+2, Graduate, No,3600000,12100000,14,408, Rejected
+5, Graduate, No,600000,1300000,14,408, Rejected
+1, Graduate, Yes,4900000,16500000,12,439, Rejected
+3, Graduate, Yes,3000000,7100000,6,415, Rejected
+0, Not Graduate, Yes,3800000,10600000,12,490, Rejected
+1, Graduate, Yes,7600000,30000000,16,884, Approved
+4, Graduate, No,7800000,25400000,18,425, Rejected
+0, Graduate, No,6800000,21700000,20,730, Approved
+4, Graduate, Yes,5900000,17300000,20,657, Approved
+2, Not Graduate, No,4900000,16800000,10,480, Rejected
+3, Not Graduate, Yes,1100000,3100000,16,356, Rejected
+1, Not Graduate, Yes,9800000,36000000,12,629, Approved
+1, Graduate, Yes,1200000,4700000,2,667, Approved
+0, Not Graduate, No,4700000,11500000,18,559, Approved
+4, Graduate, No,6700000,16000000,4,791, Approved
+0, Not Graduate, Yes,3700000,11300000,6,538, Rejected
+2, Graduate, No,7400000,16000000,20,358, Rejected
+2, Not Graduate, No,3300000,11700000,14,439, Rejected
+2, Graduate, Yes,4800000,15300000,12,503, Rejected
+4, Graduate, Yes,4600000,11900000,6,810, Approved
+1, Graduate, Yes,8000000,30600000,14,302, Rejected
+0, Not Graduate, No,4100000,8800000,18,300, Rejected
+4, Not Graduate, No,2600000,7200000,16,612, Approved
+3, Not Graduate, No,1300000,5000000,6,686, Approved
+0, Graduate, Yes,2300000,4900000,12,409, Rejected
+5, Graduate, No,300000,900000,6,492, Rejected
+0, Graduate, Yes,7000000,21700000,20,498, Rejected
+3, Not Graduate, Yes,4400000,10900000,18,611, Approved
+5, Not Graduate, Yes,5100000,11800000,6,776, Approved
+1, Not Graduate, No,5900000,13000000,6,779, Approved
+3, Graduate, Yes,7800000,27200000,16,560, Approved
+4, Graduate, Yes,2200000,5100000,6,308, Rejected
+4, Not Graduate, No,5400000,12600000,18,786, Approved
+1, Not Graduate, No,7400000,29100000,8,597, Approved
+4, Graduate, No,5800000,12000000,12,811, Approved
+1, Graduate, Yes,5800000,13000000,12,862, Approved
+3, Not Graduate, Yes,4800000,14200000,12,369, Rejected
+1, Not Graduate, Yes,7400000,23900000,4,687, Approved
+0, Not Graduate, Yes,9600000,19600000,12,500, Rejected
+2, Not Graduate, Yes,200000,500000,6,746, Approved
+4, Not Graduate, No,700000,2100000,14,619, Approved
+2, Not Graduate, No,7600000,16700000,20,692, Approved
+1, Not Graduate, Yes,1400000,3300000,18,321, Rejected
+2, Not Graduate, Yes,3800000,15000000,14,730, Approved
+3, Not Graduate, No,2700000,10800000,6,480, Rejected
+2, Not Graduate, Yes,5000000,10700000,2,753, Approved
+4, Graduate, Yes,9000000,28900000,6,637, Approved
+3, Graduate, No,3700000,9000000,6,483, Rejected
+4, Not Graduate, Yes,300000,1100000,4,315, Approved
+4, Graduate, No,1800000,4100000,8,777, Approved
+2, Graduate, No,7900000,17700000,4,402, Rejected
+4, Graduate, Yes,2100000,7700000,8,493, Rejected
+0, Graduate, Yes,900000,3100000,4,355, Approved
+3, Graduate, No,9900000,23600000,18,557, Approved
+0, Not Graduate, Yes,5600000,20000000,20,606, Approved
+1, Not Graduate, Yes,6000000,12200000,16,743, Approved
+5, Not Graduate, No,5700000,18400000,4,579, Approved
+0, Graduate, Yes,9000000,33100000,20,734, Approved
+0, Graduate, No,7300000,16100000,2,490, Rejected
+5, Graduate, No,5300000,20500000,16,802, Approved
+1, Not Graduate, Yes,3500000,7400000,16,867, Approved
+0, Not Graduate, No,1000000,2200000,12,302, Rejected
+0, Not Graduate, No,5100000,19900000,12,867, Approved
+0, Graduate, Yes,2900000,9900000,8,312, Rejected
+3, Not Graduate, No,7600000,19100000,14,762, Approved
+5, Not Graduate, Yes,6000000,14700000,18,462, Rejected
+1, Graduate, No,6300000,18200000,18,849, Approved
+3, Not Graduate, No,1900000,7400000,18,592, Approved
+4, Graduate, No,600000,1400000,4,507, Rejected
+2, Not Graduate, Yes,4100000,11400000,14,505, Rejected
+0, Not Graduate, Yes,800000,3200000,8,467, Rejected
+2, Not Graduate, No,6600000,22900000,16,543, Rejected
+4, Graduate, Yes,300000,1100000,12,674, Approved
+3, Graduate, No,6100000,13500000,2,717, Approved
+5, Not Graduate, Yes,4800000,17000000,10,666, Approved
+4, Not Graduate, No,4500000,17300000,18,830, Approved
+2, Graduate, No,3800000,9400000,16,383, Rejected
+2, Graduate, Yes,7000000,18900000,8,584, Approved
+2, Not Graduate, No,4400000,14200000,18,799, Approved
+5, Graduate, No,5300000,19400000,6,510, Rejected
+0, Not Graduate, Yes,2600000,5900000,6,572, Approved
+3, Not Graduate, No,3300000,13100000,2,554, Approved
+1, Not Graduate, Yes,1200000,4800000,6,344, Rejected
+3, Graduate, No,4300000,8600000,8,881, Approved
+0, Not Graduate, Yes,8400000,27200000,10,514, Rejected
+0, Graduate, No,600000,1800000,18,796, Approved
+2, Graduate, Yes,4700000,16200000,12,802, Approved
+3, Graduate, No,4200000,12500000,20,375, Rejected
+2, Graduate, No,4300000,14700000,2,871, Approved
+0, Not Graduate, No,800000,2900000,2,439, Approved
+0, Not Graduate, Yes,9300000,32000000,8,438, Rejected
+5, Not Graduate, No,6200000,13700000,2,468, Rejected
+3, Graduate, Yes,3500000,10200000,12,645, Approved
+2, Graduate, Yes,3600000,9200000,18,700, Approved
+5, Graduate, Yes,9500000,36700000,16,348, Rejected
+5, Graduate, Yes,600000,1400000,10,877, Approved
+0, Not Graduate, Yes,3800000,14900000,6,899, Approved
+3, Graduate, Yes,1400000,3500000,12,610, Approved
+1, Not Graduate, No,6300000,23900000,4,742, Approved
+1, Not Graduate, Yes,2800000,6600000,18,801, Approved
+4, Graduate, Yes,5400000,17100000,2,533, Approved
+3, Not Graduate, Yes,6300000,23900000,16,656, Approved
+3, Graduate, Yes,3900000,14300000,18,785, Approved
+2, Graduate, Yes,4200000,15700000,2,332, Approved
+0, Graduate, No,3100000,8100000,18,768, Approved
+1, Graduate, No,3400000,8600000,6,640, Approved
+4, Not Graduate, No,1500000,3100000,6,885, Approved
+3, Not Graduate, Yes,900000,2000000,18,772, Approved
+4, Graduate, Yes,7800000,25600000,4,665, Approved
+1, Not Graduate, Yes,3500000,10500000,20,454, Rejected
+1, Not Graduate, No,8400000,32500000,14,698, Approved
+4, Not Graduate, Yes,6400000,21300000,20,332, Rejected
+1, Not Graduate, No,9600000,28300000,6,536, Rejected
+5, Not Graduate, Yes,2100000,6500000,10,796, Approved
+2, Not Graduate, Yes,6000000,19900000,8,486, Rejected
+0, Not Graduate, Yes,8300000,16800000,18,422, Rejected
+1, Not Graduate, Yes,5300000,18500000,6,501, Rejected
+1, Not Graduate, Yes,9700000,23500000,4,666, Approved
+3, Not Graduate, Yes,8200000,16500000,18,371, Rejected
+5, Graduate, No,3400000,6900000,14,312, Rejected
+5, Graduate, No,2800000,11000000,12,753, Approved
+0, Not Graduate, Yes,2400000,5200000,16,740, Approved
+1, Graduate, No,8200000,24000000,4,366, Rejected
+4, Not Graduate, No,4200000,11100000,8,526, Rejected
+4, Graduate, Yes,5500000,14800000,10,354, Rejected
+5, Not Graduate, Yes,2900000,6300000,6,719, Approved
+5, Not Graduate, No,6300000,20100000,12,774, Approved
+5, Not Graduate, Yes,9700000,29100000,18,732, Approved
+1, Not Graduate, No,6500000,16000000,6,862, Approved
+5, Not Graduate, No,4900000,10800000,18,613, Approved
+5, Graduate, Yes,6900000,16500000,6,447, Rejected
+4, Not Graduate, Yes,1100000,3000000,4,730, Approved
+2, Not Graduate, Yes,7800000,29600000,14,568, Approved
+2, Graduate, Yes,8200000,23600000,6,495, Rejected
+5, Not Graduate, Yes,6700000,23600000,14,854, Approved
+3, Graduate, Yes,7400000,15200000,10,548, Rejected
+1, Not Graduate, No,1200000,2700000,14,779, Approved
+0, Not Graduate, No,9500000,24800000,2,564, Approved
+5, Not Graduate, Yes,4000000,8200000,2,571, Approved
+0, Not Graduate, Yes,8600000,32600000,8,778, Approved
+4, Graduate, Yes,9100000,28400000,12,808, Approved
+0, Not Graduate, Yes,7100000,18600000,20,770, Approved
+0, Not Graduate, No,9000000,28400000,4,612, Approved
+3, Graduate, Yes,1400000,2700000,14,819, Approved
+1, Graduate, No,8800000,20200000,6,627, Approved
+3, Not Graduate, Yes,5400000,14700000,4,359, Rejected
+1, Graduate, No,6100000,19100000,6,341, Rejected
+1, Graduate, No,1000000,3600000,4,570, Approved
+3, Graduate, Yes,7700000,18100000,20,736, Approved
+1, Graduate, Yes,6100000,12900000,2,302, Rejected
+2, Not Graduate, Yes,7700000,21000000,12,420, Rejected
+4, Graduate, Yes,4700000,12000000,2,416, Rejected
+2, Graduate, Yes,9100000,34800000,20,836, Approved
+0, Graduate, Yes,5800000,12700000,12,528, Rejected
+4, Not Graduate, No,8500000,24900000,2,405, Rejected
+2, Graduate, Yes,9900000,33400000,14,783, Approved

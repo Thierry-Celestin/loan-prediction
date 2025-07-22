@@ -1,0 +1,21 @@
+# Dockerfile.fastapi
+FROM python:3.9-slim
+
+# Set the working directory
+WORKDIR /app
+
+# Copy FastAPI application files
+COPY ./fastapi_app/fastapi_app.py /app/fastapi_app.py
+COPY requirements.txt /app/requirements.txt
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install additional dependencies for FastAPI and database interaction
+RUN pip install fastapi uvicorn psycopg2-binary
+
+# Expose Uvicorn’s default port for FastAPI
+EXPOSE 8000
+
+# Command to start FastAPI app using Uvicorn
+CMD ["uvicorn", "fastapi_app:app", "--host", "0.0.0.0", "--port", "8000"]

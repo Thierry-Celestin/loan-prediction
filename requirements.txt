@@ -1,0 +1,14 @@
+great_expectations==0.15.15
+pandas
+numpy
+pydantic
+# Common dependencies
+requests
+psycopg2-binary
+
+# Airflow dependencies (if any extra)
+apache-airflow==2.8.1
+
+# FastAPI dependencies
+fastapi
+uvicorn

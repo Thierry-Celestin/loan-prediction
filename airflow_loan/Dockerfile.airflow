@@ -1,0 +1,14 @@
+# Dockerfile.airflow
+# Dockerfile.airflow
+FROM apache/airflow:2.8.1
+
+# Copy the DAGs folder, config, and plugins into the Airflow directory
+COPY ./dags /opt/airflow/dags
+COPY ./config /opt/airflow/config
+COPY ./plugins /opt/airflow/plugins  
+
+# Install additional Python dependencies if needed
+COPY requirements.txt .  
+RUN pip install -r requirements.txt
+
+
